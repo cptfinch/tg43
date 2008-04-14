@@ -1,0 +1,19 @@
+--- 
+- :dwell_weight: 1
+  :source_coords: 
+  - 0
+  - 0
+  - 0
+  :cylinder_direction: x
+- :dwell_weight: 0.5
+  :source_coords: 
+  - 1
+  - 1
+  - 1
+  :cylinder_direction: y
+- :dwell_weight: 2
+  :source_coords: 
+  - 2
+  - 2
+  - 2
+  :cylinder_direction: z

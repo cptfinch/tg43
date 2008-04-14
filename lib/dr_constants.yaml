@@ -1,0 +1,6 @@
+- shape: cylinder
+  strength: 1.108
+  isotope: iridium90
+- shape: sphere
+  strength: 2
+  isotope: cobalt

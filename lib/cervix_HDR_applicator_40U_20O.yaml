@@ -1,0 +1,85 @@
+--- 
+- :source_coords: 
+  - 10
+  - -5
+  - 10
+  :cylinder_direction: y
+  :dwell_weight: 0.875 
+- :source_coords: 
+  - 10
+  - 0
+  - 10
+  :cylinder_direction: y
+  :dwell_weight: 0.875
+- :source_coords: 
+  - 10
+  - 5
+  - 10
+  :cylinder_direction: y
+  :dwell_weight: 0.875
+- :source_coords: 
+  - 10
+  - -5
+  - -10
+  :cylinder_direction: y
+  :dwell_weight: 0.875 
+- :source_coords: 
+  - 10
+  - 0
+  - -10
+  :cylinder_direction: y
+  :dwell_weight: 0.875
+- :source_coords: 
+  - 10
+  - 5
+  - -10
+  :cylinder_direction: y
+  :dwell_weight: 0.875
+- :source_coords: 
+  - -34
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1 
+- :source_coords: 
+  - -29
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1
+- :source_coords: 
+  - -24
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1
+- :source_coords: 
+  - -19
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1 
+- :source_coords: 
+  - -14
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1
+- :source_coords: 
+  - -9
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1
+- :source_coords: 
+  - -4
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1 
+- :source_coords: 
+  - 1
+  - 0
+  - 0
+  :cylinder_direction: x
+  :dwell_weight: 1
